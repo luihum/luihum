@@ -1,4 +1,4 @@
-I'm a random guy who makes random stuff 
+I'm a random guy who makes random stuff. I like old computers, programming, donuts, pizza, coffee, cats, and computers.
 
 <!--
 **luihum/luihum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
